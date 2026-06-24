@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/vivir-en-tu-fuego/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Vivir en tu fuego](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/vivir-en-tu-fuego/) |
+| **Get License** | [License this song: Vivir en tu fuego](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/vivir-en-tu-fuego/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `db7b3a01bdb5b3508c1357c4910d89d201d5e5d1c5c4b6c4e325f430fee387dc` |
 | **Timestamp** | June 24, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
