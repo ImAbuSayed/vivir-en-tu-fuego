@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/vivir-en-tu-fuego/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Vivir en tu fuego](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/vivir-en-tu-fuego/) |
+| **Get License** | [Get a Licensing Quote for Vivir en tu fuego](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/vivir-en-tu-fuego/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Me tienes loco buscando el calor de tu piel
+> Esa mirada me dice que quieres también
+> Baby, no hay reglas, esta noche te voy a encender
+> Vivir en tu fuego, quemarme y volverte a tener
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
